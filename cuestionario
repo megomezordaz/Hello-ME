@@ -1,1 +1,1 @@
-git.config --global username "Jane Doe"
+git config --global username "Jane Doe"
